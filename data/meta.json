@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-09T14:23:37.110910",
+  "last_updated": "2026-08-10T15:07:18.608124",
   "sources": {
-    "fred": "ok",
-    "eia": "ok",
-    "eia_daily": "ok",
+    "fred": "skipped",
+    "eia": "skipped",
+    "eia_daily": "skipped",
     "cftc": "ok",
     "futures": "ok",
-    "steo": "ok",
+    "steo": "skipped",
     "polymarket": "ok",
     "maritime": "ok",
     "yahoo_realtime": "ok",
     "maritime_validation": "ok",
-    "global_demand": "ok",
-    "opec_production": "ok",
-    "global_inventory": "ok",
+    "global_demand": "skipped",
+    "opec_production": "skipped",
+    "global_inventory": "skipped",
     "options": "ok"
   }
 }
