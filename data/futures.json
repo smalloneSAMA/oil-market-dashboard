@@ -29,6 +29,13 @@
       "date": "2026-08-14"
     },
     {
+      "month": "2027-01",
+      "label": "Jan 2027",
+      "ticker": "CLF27.NYM",
+      "price": 77.05,
+      "date": "2026-08-14"
+    },
+    {
       "month": "2027-02",
       "label": "Feb 2027",
       "ticker": "CLG27.NYM",
@@ -79,7 +86,7 @@
     }
   ],
   "m1_m2_spread": 0.93,
-  "m1_m6_spread": 7.58,
+  "m1_m6_spread": 6.58,
   "structure": "backwardation",
   "spread_history": [
     {
@@ -1457,5 +1464,5 @@
       "m2": 80.75
     }
   ],
-  "updated": "2026-08-15T14:30:45.840963"
+  "updated": "2026-08-16T14:31:05.571760"
 }
