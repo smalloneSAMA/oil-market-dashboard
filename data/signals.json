@@ -19,7 +19,7 @@
     "m1_m6_spread": 9.09,
     "curve_front": 87.06,
     "curve_back": 73.42,
-    "n_contracts": 11
+    "n_contracts": 12
   },
   "demand": {
     "name": "需求强度",
