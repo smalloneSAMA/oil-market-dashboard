@@ -15,10 +15,10 @@
     "evidence_note": "期货价格为直接市场观测",
     "label": "Backwardation",
     "source": "futures",
-    "m1_m2_spread": 1.57,
-    "m1_m6_spread": 7.87,
-    "curve_front": 83.4,
-    "curve_back": 71.58,
+    "m1_m2_spread": 1.86,
+    "m1_m6_spread": 9.1,
+    "curve_front": 85.88,
+    "curve_back": 72.24,
     "n_contracts": 12
   },
   "demand": {
@@ -125,7 +125,7 @@
     "spr_low": true,
     "spr_4w_change": -14680.0,
     "spr_trend": "releasing",
-    "current_wti": 83.4,
+    "current_wti": 85.88,
     "detail": "当前无明显触发 SPR 释放的条件。",
     "release_likelihood": "low",
     "max_release_days": 69.0,
@@ -155,8 +155,8 @@
     ]
   },
   "price_freshness": {
-    "spot_date": "2026-08-28",
-    "futures_date": "2026-08-28",
+    "spot_date": "2026-08-31",
+    "futures_date": "2026-08-31",
     "lag_days": 0,
     "temporal_risk": "low"
   },
