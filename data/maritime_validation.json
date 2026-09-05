@@ -4,10 +4,10 @@
       "name": "Frontline (VLCC)",
       "segment": "crude",
       "weight": 0.3,
-      "price": 46.21,
-      "change_5d_pct": 5.6,
-      "change_20d_pct": 20.2,
-      "volume_spike_pct": -2.2,
+      "price": 46.12,
+      "change_5d_pct": 5.3,
+      "change_20d_pct": 19.9,
+      "volume_spike_pct": 5.1,
       "history": [
         {
           "date": "2026-07-27",
@@ -127,7 +127,7 @@
         },
         {
           "date": "2026-09-04",
-          "close": 46.21
+          "close": 46.12
         }
       ]
     },
@@ -135,10 +135,10 @@
       "name": "DHT Holdings (VLCC)",
       "segment": "crude",
       "weight": 0.2,
-      "price": 20.76,
-      "change_5d_pct": 5.9,
-      "change_20d_pct": 20.8,
-      "volume_spike_pct": -16.8,
+      "price": 20.87,
+      "change_5d_pct": 6.5,
+      "change_20d_pct": 21.4,
+      "volume_spike_pct": -4.0,
       "history": [
         {
           "date": "2026-07-27",
@@ -258,7 +258,7 @@
         },
         {
           "date": "2026-09-04",
-          "close": 20.76
+          "close": 20.87
         }
       ]
     },
@@ -266,10 +266,10 @@
       "name": "Intl Seaways",
       "segment": "mixed",
       "weight": 0.2,
-      "price": 103.01,
-      "change_5d_pct": 4.4,
-      "change_20d_pct": 13.9,
-      "volume_spike_pct": 9.8,
+      "price": 104.5,
+      "change_5d_pct": 5.9,
+      "change_20d_pct": 15.6,
+      "volume_spike_pct": 19.4,
       "history": [
         {
           "date": "2026-07-27",
@@ -389,7 +389,7 @@
         },
         {
           "date": "2026-09-04",
-          "close": 103.01
+          "close": 104.5
         }
       ]
     },
@@ -397,10 +397,10 @@
       "name": "Scorpio Tankers",
       "segment": "product",
       "weight": 0.2,
-      "price": 80.92,
-      "change_5d_pct": 2.6,
-      "change_20d_pct": 6.5,
-      "volume_spike_pct": -1.4,
+      "price": 82.35,
+      "change_5d_pct": 4.4,
+      "change_20d_pct": 8.3,
+      "volume_spike_pct": 13.3,
       "history": [
         {
           "date": "2026-07-27",
@@ -520,7 +520,7 @@
         },
         {
           "date": "2026-09-04",
-          "close": 80.92
+          "close": 82.35
         }
       ]
     },
@@ -528,10 +528,10 @@
       "name": "Breakwave Dry Bulk",
       "segment": "dry_bulk",
       "weight": 0.1,
-      "price": 16.49,
-      "change_5d_pct": 6.6,
-      "change_20d_pct": 19.5,
-      "volume_spike_pct": 103.3,
+      "price": 16.56,
+      "change_5d_pct": 7.0,
+      "change_20d_pct": 20.0,
+      "volume_spike_pct": 107.1,
       "history": [
         {
           "date": "2026-07-27",
@@ -651,7 +651,7 @@
         },
         {
           "date": "2026-09-04",
-          "close": 16.49
+          "close": 16.56
         }
       ]
     }
@@ -661,7 +661,7 @@
   },
   "cross_validation": {
     "hormuz_tanker_wow": 0,
-    "crude_tanker_stock_5d": 5.3,
+    "crude_tanker_stock_5d": 5.8,
     "interpretation": "航运正常波动范围",
     "portwatch_confirmed": true
   },
@@ -676,5 +676,5 @@
     "level": "high",
     "issues": []
   },
-  "updated": "2026-09-04T17:32:46Z"
+  "updated": "2026-09-05T16:43:27Z"
 }
