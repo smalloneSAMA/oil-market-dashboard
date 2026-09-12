@@ -8,8 +8,8 @@
       "open": 104.32,
       "high": 104.46,
       "low": 98.48,
-      "close": 99.37,
-      "volume": 310027
+      "close": 100.05,
+      "volume": 437382
     },
     "history": [
       {
@@ -402,15 +402,15 @@
         "high": 104.04,
         "low": 95.37,
         "close": 102.48,
-        "volume": 325209
+        "volume": 437382
       },
       {
         "date": "2026-09-11",
         "open": 104.32,
         "high": 104.46,
         "low": 98.48,
-        "close": 99.37,
-        "volume": 310027
+        "close": 100.05,
+        "volume": 437382
       }
     ]
   },
@@ -423,8 +423,8 @@
       "open": 109.16,
       "high": 110.19,
       "low": 103.48,
-      "close": 104.13,
-      "volume": 49587
+      "close": 104.61,
+      "volume": 72538
     },
     "history": [
       {
@@ -817,15 +817,15 @@
         "high": 109.05,
         "low": 100.19,
         "close": 107.63,
-        "volume": 51567
+        "volume": 72538
       },
       {
         "date": "2026-09-11",
         "open": 109.16,
         "high": 110.19,
         "low": 103.48,
-        "close": 104.13,
-        "volume": 49587
+        "close": 104.61,
+        "volume": 72538
       }
     ]
   },
@@ -836,10 +836,10 @@
     "latest": {
       "date": "2026-09-11",
       "open": 5.15,
-      "high": 4.93,
-      "low": 4.74,
-      "close": 4.75,
-      "volume": 38311
+      "high": 5.17,
+      "low": 4.94,
+      "close": 4.96,
+      "volume": 62190
     },
     "history": [
       {
@@ -1232,15 +1232,15 @@
         "high": 5.16,
         "low": 4.71,
         "close": 5.06,
-        "volume": 58628
+        "volume": 62190
       },
       {
         "date": "2026-09-11",
         "open": 5.15,
-        "high": 4.93,
-        "low": 4.74,
-        "close": 4.75,
-        "volume": 38311
+        "high": 5.17,
+        "low": 4.94,
+        "close": 4.96,
+        "volume": 62190
       }
     ]
   },
@@ -1250,11 +1250,11 @@
     "ticker": "RB=F",
     "latest": {
       "date": "2026-09-11",
-      "open": 3.25,
-      "high": 3.27,
-      "low": 3.11,
-      "close": 3.12,
-      "volume": 47161
+      "open": 3.45,
+      "high": 3.47,
+      "low": 3.3,
+      "close": 3.31,
+      "volume": 73349
     },
     "history": [
       {
@@ -1647,15 +1647,15 @@
         "high": 3.44,
         "low": 3.19,
         "close": 3.39,
-        "volume": 69373
+        "volume": 73349
       },
       {
         "date": "2026-09-11",
-        "open": 3.25,
-        "high": 3.27,
-        "low": 3.11,
-        "close": 3.12,
-        "volume": 47161
+        "open": 3.45,
+        "high": 3.47,
+        "low": 3.3,
+        "close": 3.31,
+        "volume": 73349
       }
     ]
   },
@@ -1668,8 +1668,8 @@
       "open": 2.84,
       "high": 2.85,
       "low": 2.77,
-      "close": 2.81,
-      "volume": 92237
+      "close": 2.83,
+      "volume": 174179
     },
     "history": [
       {
@@ -2062,15 +2062,15 @@
         "high": 2.84,
         "low": 2.75,
         "close": 2.83,
-        "volume": 178990
+        "volume": 174179
       },
       {
         "date": "2026-09-11",
         "open": 2.84,
         "high": 2.85,
         "low": 2.77,
-        "close": 2.81,
-        "volume": 92237
+        "close": 2.83,
+        "volume": 174179
       }
     ]
   },
@@ -2273,7 +2273,7 @@
     },
     {
       "date": "2026-09-11",
-      "value": -4.76
+      "value": -4.56
     }
   ],
   "crack_321_realtime": [
@@ -2475,22 +2475,22 @@
     },
     {
       "date": "2026-09-11",
-      "value": 54.49
+      "value": 62.07
     }
   ],
-  "snapshot_time": "2026-09-11T17:42:32",
+  "snapshot_time": "2026-09-12T16:55:10",
   "freshness": {
     "wti": {
       "realtime": "2026-09-11",
-      "fred": "2026-09-10",
-      "fred_lag_days": 1,
+      "fred": "2026-09-11",
+      "fred_lag_days": 0,
       "eia": "2026-08-03",
       "eia_lag_days": 39
     },
     "brent": {
       "realtime": "2026-09-11",
-      "fred": "2026-09-10",
-      "fred_lag_days": 1,
+      "fred": "2026-09-11",
+      "fred_lag_days": 0,
       "eia": "2026-08-03",
       "eia_lag_days": 39
     }
