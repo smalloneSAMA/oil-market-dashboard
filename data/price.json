@@ -20251,6 +20251,10 @@
     {
       "date": "2026-10-29",
       "value": 102.31
+    },
+    {
+      "date": "2026-10-30",
+      "value": 104.62
     }
   ],
   "brent": [
@@ -40505,6 +40509,10 @@
     {
       "date": "2026-10-29",
       "value": 111.01
+    },
+    {
+      "date": "2026-10-30",
+      "value": 113.31
     }
   ],
   "spread": [
@@ -60463,7 +60471,11 @@
     {
       "date": "2026-10-29",
       "value": -8.7
+    },
+    {
+      "date": "2026-10-30",
+      "value": -8.69
     }
   ],
-  "_source_note": "FRED + EIA + Yahoo Finance realtime. Last realtime merge: 2026-10-29T19:30:43"
+  "_source_note": "FRED + EIA + Yahoo Finance realtime. Last realtime merge: 2026-10-30T19:08:25"
 }
