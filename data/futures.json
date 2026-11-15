@@ -1,6 +1,13 @@
 {
   "curve": [
     {
+      "month": "2026-12",
+      "label": "Dec 2026",
+      "ticker": "CLZ26.NYM",
+      "price": 88.56,
+      "date": "2026-11-13"
+    },
+    {
       "month": "2027-01",
       "label": "Jan 2027",
       "ticker": "CLF27.NYM",
@@ -78,8 +85,8 @@
       "date": "2026-11-13"
     }
   ],
-  "m1_m2_spread": 1.53,
-  "m1_m6_spread": 6.9,
+  "m1_m2_spread": 1.27,
+  "m1_m6_spread": 7.03,
   "structure": "backwardation",
   "spread_history": [
     {
@@ -1847,5 +1854,5 @@
       "m2": 87.45
     }
   ],
-  "updated": "2026-11-14T19:00:31.698210"
+  "updated": "2026-11-15T19:40:32.493558"
 }
