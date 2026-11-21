@@ -4,35 +4,35 @@
       "month": "2027-01",
       "label": "Jan 2027",
       "ticker": "CLF27.NYM",
-      "price": 83.74,
+      "price": 83.41,
       "date": "2026-11-20"
     },
     {
       "month": "2027-02",
       "label": "Feb 2027",
       "ticker": "CLG27.NYM",
-      "price": 82.44,
+      "price": 82.26,
       "date": "2026-11-20"
     },
     {
       "month": "2027-03",
       "label": "Mar 2027",
       "ticker": "CLH27.NYM",
-      "price": 81.08,
+      "price": 81.03,
       "date": "2026-11-20"
     },
     {
       "month": "2027-04",
       "label": "Apr 2027",
       "ticker": "CLJ27.NYM",
-      "price": 79.85,
+      "price": 79.83,
       "date": "2026-11-20"
     },
     {
       "month": "2027-05",
       "label": "May 2027",
       "ticker": "CLK27.NYM",
-      "price": 78.67,
+      "price": 78.7,
       "date": "2026-11-20"
     },
     {
@@ -46,47 +46,47 @@
       "month": "2027-07",
       "label": "Jul 2027",
       "ticker": "CLN27.NYM",
-      "price": 76.57,
+      "price": 76.62,
       "date": "2026-11-20"
     },
     {
       "month": "2027-08",
       "label": "Aug 2027",
       "ticker": "CLQ27.NYM",
-      "price": 75.61,
+      "price": 75.67,
       "date": "2026-11-20"
     },
     {
       "month": "2027-09",
       "label": "Sep 2027",
       "ticker": "CLU27.NYM",
-      "price": 74.75,
+      "price": 74.8,
       "date": "2026-11-20"
     },
     {
       "month": "2027-10",
       "label": "Oct 2027",
       "ticker": "CLV27.NYM",
-      "price": 73.94,
+      "price": 74.01,
       "date": "2026-11-20"
     },
     {
       "month": "2027-11",
       "label": "Nov 2027",
       "ticker": "CLX27.NYM",
-      "price": 73.22,
+      "price": 73.28,
       "date": "2026-11-20"
     },
     {
       "month": "2027-12",
       "label": "Dec 2027",
       "ticker": "CLZ27.NYM",
-      "price": 72.58,
+      "price": 72.61,
       "date": "2026-11-20"
     }
   ],
-  "m1_m2_spread": 1.3,
-  "m1_m6_spread": 6.11,
+  "m1_m2_spread": 1.15,
+  "m1_m6_spread": 5.78,
   "structure": "backwardation",
   "spread_history": [
     {
@@ -1884,5 +1884,5 @@
       "m2": 82.44
     }
   ],
-  "updated": "2026-11-20T21:44:57.462380"
+  "updated": "2026-11-21T20:26:25.661133"
 }
