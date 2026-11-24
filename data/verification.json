@@ -5,8 +5,8 @@
       "origin": "FRED + EIA",
       "evidence_tier": "A",
       "frequency": "日频（工作日）",
-      "latest": "2026-11-23",
-      "lag_days": 1,
+      "latest": "2026-11-24",
+      "lag_days": 0,
       "covers": [
         "当前油价水平",
         "WTI-Brent价差",
@@ -22,8 +22,8 @@
       "origin": "Yahoo Finance",
       "evidence_tier": "A",
       "frequency": "日频",
-      "latest": "2026-11-23",
-      "lag_days": 1,
+      "latest": "2026-11-24",
+      "lag_days": 0,
       "covers": [
         "期限结构(Backwardation/Contango)",
         "远月隐含价格",
@@ -226,7 +226,7 @@
           "weight": "supporting",
           "check": "是否转为深度Backwardation",
           "status": "ok",
-          "lag_days": 1,
+          "lag_days": 0,
           "caveat": null
         },
         {
@@ -235,7 +235,7 @@
           "weight": "supporting",
           "check": "Brent溢价是否扩大（国际供给更受影响）",
           "status": "ok",
-          "lag_days": 1,
+          "lag_days": 0,
           "caveat": null
         }
       ],
@@ -326,7 +326,7 @@
           "weight": "primary",
           "check": "近月溢价是否远超远月（地缘驱动的Backwardation）",
           "status": "ok",
-          "lag_days": 1,
+          "lag_days": 0,
           "caveat": null
         },
         {
@@ -426,7 +426,7 @@
           "weight": "supporting",
           "check": "总持仓量是增是减（配合方向看资金行为）",
           "status": "ok",
-          "lag_days": 1,
+          "lag_days": 0,
           "caveat": null
         }
       ],
@@ -449,7 +449,7 @@
           "weight": "primary",
           "check": "M1-M2, M1-M6 价差水平和趋势",
           "status": "ok",
-          "lag_days": 1,
+          "lag_days": 0,
           "caveat": null
         },
         {
@@ -508,7 +508,7 @@
           "weight": "supporting",
           "check": "是否超过历史政策干预触发价",
           "status": "ok",
-          "lag_days": 1,
+          "lag_days": 0,
           "caveat": null
         },
         {
@@ -562,8 +562,8 @@
       }
     ],
     "lag_map": {
-      "spot_price": 1,
-      "futures_curve": 1,
+      "spot_price": 0,
+      "futures_curve": 0,
       "us_inventory": 116,
       "us_demand": 116,
       "crack_spread": 113,
@@ -696,5 +696,5 @@
       ]
     }
   },
-  "generated_at": "2026-11-24T01:35:49.758290"
+  "generated_at": "2026-11-24T23:26:44.511583"
 }
